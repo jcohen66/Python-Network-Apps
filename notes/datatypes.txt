@@ -1,0 +1,15 @@
+Mutable:
+
+lists
+dictionaries
+sets
+
+Immutable:
+
+strings
+numbers
+booleans
+frozensets
+tuples
+ranges
+None
