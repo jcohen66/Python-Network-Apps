@@ -28,7 +28,7 @@ and files are post-pended with with the ip.
 
 #### user.txt
 ````
-user,pw
+user.pw
 ````
 
 #### files.txt
